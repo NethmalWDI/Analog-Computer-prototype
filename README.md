@@ -1,15 +1,16 @@
 # Analog-Computer-prototype
 
 ## 1. Introduction
-- This project, titled 'Analog Computer', aims to explore and demonstrate the functionality of opamp circuits in performing fundamental analog computations – addition, subtraction, and multiplication. The utilization of these analog operations holds immense potential in the field of analog signal processing. The project will dive into the design and implementation of analog adder, subtractor, and multiplier circuits, analysing their underlying principles and practical applications.<br/>
+This project, titled 'Analog Computer', aims to explore and demonstrate the functionality of opamp circuits in performing fundamental analog computations – addition, subtraction, and multiplication. The utilization of these analog operations holds immense potential in the field of analog signal processing. The project will dive into the design and implementation of analog adder, subtractor, and multiplier circuits, analysing their underlying principles and practical applications.  
+<hr>
 
 
 ## 2. Technical Specifications
 
 ### 1.  Operations:
-- 1.1 Addition
-- 1.2 Subtraction
-- 1.3 Multiplication
+ 1.1 Addition  
+ 1.2 Subtraction  
+ 1.3 Multiplication
 ### 2. Analog Computing Principles: 
 Utilize operational amplifier (op-amp) circuits for implementing the desired operations. We have designed dedicated circuits for each operation, considering appropriate signal conditioning and biasing.
 ### 3. Frequency Range: 
