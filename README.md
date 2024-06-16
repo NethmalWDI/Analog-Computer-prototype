@@ -27,5 +27,5 @@ Dual-channel input interfaces for each operation. The input interfaces accept wa
 Control mechanisms for adjusting gain, biasing, and operation mode (addition, subtraction, multiplication) using potentiometers.
 
 ## contributors
-[Imasha Nethmal](
+
 
